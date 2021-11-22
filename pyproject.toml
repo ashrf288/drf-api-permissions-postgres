@@ -8,6 +8,7 @@ authors = ["Ashrf Mathkour Obeidat <ashrfmathkour@gmail.com>"]
 python = "^3.9"
 Django = "^3.2.9"
 djangorestframework = "^3.12.4"
+psycopg2-binary = "^2.9.2"
 
 [tool.poetry.dev-dependencies]
 
